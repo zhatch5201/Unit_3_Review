@@ -2,6 +2,9 @@ form p{
     float: left;
     width: 50%;
 }
+body{
+    vertical-align: middle;
+}
 html{
     background: radial-gradient( aqua, teal, hotpink);
     color: white;
@@ -24,7 +27,7 @@ button{
     font-size: 15px;
     box-shadow: indigo 3px 3px 3px;
 }
-form{
+form, p{
     color:rgb(223, 166, 61);
     font-size: 20px;
     text-shadow: indigo 3px 3px 3px;

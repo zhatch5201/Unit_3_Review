@@ -42,6 +42,7 @@ function test(){
         if(doubleLetters === true &&& pair === true){
             ans ++;
         }
+        
     }
     output.innerHTML = ans;
 }
